@@ -1,0 +1,33 @@
+.jam {
+  margin-top: 48px;
+}
+
+.nis {
+  padding: 50px 50px;
+}
+
+.nis img {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 30px;
+}
+
+.nis a {
+  display: block;
+}
+
+.midbox {
+  background-color: black;
+  height: 50px;
+  padding: 10px 10px 10px 10px;
+}
+
+.midbox p {
+  color: white;
+  text-align: center;
+}
+
+#carouselExampleControls > div.row > div.col-6.nis > img {
+  height: 350px;
+  width: 400px;
+}
